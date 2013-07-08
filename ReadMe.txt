@@ -1,3 +1,18 @@
+Remote Method Invocation:
+=========================
+Java Remote Method Invocation (Java RMI) enables the programmer to create distributed Java technology-based 
+to Java technology-based applications, in which the methods of remote Java objects can be invoked from 
+other Java virtual machines, possibly on different hosts. This repository contains working code of  RMI 
+Client and RMI Server Side.<br>
+Source: Oracle.com <br>
+
+The Java Remote Method Invocation Application Programming Interface (API), or Java RMI, is a Java API 
+that performs the object-oriented equivalent of remote procedure calls (RPC), with support for direct 
+transfer of serialized Java objects and distributed garbage collection. <br>
+Source: Wikipedia<br>
+
+Generally speaking, there are three main classes that matter: RMIServer, RMIClient, RMI_Interface.
+
 Generate rmi stub/skeleton for RMI client from RMI server side
 ==============================================================
 C:\rmi_demo\server>rmic RMI_BioAPI_AsteriskJava_Server
