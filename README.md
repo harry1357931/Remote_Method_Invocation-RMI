@@ -5,7 +5,7 @@ to Java technology-based applications, in which the methods of remote Java objec
 other Java virtual machines, possibly on different hosts. This repository contains working code of  RMI 
 Client and RMI Server Side.<br>
 Source: Oracle.com <br>
-
+Here are few Images to understand the RMI Client Server Model:
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/RMI-Stubs-Skeletons.svg/798px-RMI-Stubs-Skeletons.svg.png" alt="RMI Structure_Image1" width="" height="">
 <img src="http://i2.ytimg.com/vi/ILeAeFZOkMI/hqdefault.jpg?feature=og" alt="RMI Structure_Image2" width="" height="">
 <img src="http://lycog.com/wp-content/uploads/2011/03/java-rmi-overview.png" alt="RMI Structure_Image3" width="" height="">
