@@ -6,6 +6,8 @@ other Java virtual machines, possibly on different hosts. This repository contai
 Client and RMI Server Side.<br>
 Source: Oracle.com <br>
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/RMI-Stubs-Skeletons.svg/798px-RMI-Stubs-Skeletons.svg.png" alt="Pulpit rock" width="" height="">
+
 The Java Remote Method Invocation Application Programming Interface (API), or Java RMI, is a Java API 
 that performs the object-oriented equivalent of remote procedure calls (RPC), with support for direct 
 transfer of serialized Java objects and distributed garbage collection. <br>
