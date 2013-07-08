@@ -7,8 +7,8 @@ Client and RMI Server Side.<br>
 Source: Oracle.com <br>
 Here are few Images to understand the RMI Client Server Model:
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/RMI-Stubs-Skeletons.svg/798px-RMI-Stubs-Skeletons.svg.png" alt="RMI Structure_Image1" width="" height="">
-<img src="http://i2.ytimg.com/vi/ILeAeFZOkMI/hqdefault.jpg?feature=og" alt="RMI Structure_Image2" width="" height="">
-<img src="http://lycog.com/wp-content/uploads/2011/03/java-rmi-overview.png" alt="RMI Structure_Image3" width="" height="">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="http://lycog.com/wp-content/uploads/2011/03/java-rmi-overview.png" alt="RMI Structure_Image2" width="" height="">
 
 The Java Remote Method Invocation Application Programming Interface (API), or Java RMI, is a Java API 
 that performs the object-oriented equivalent of remote procedure calls (RPC), with support for direct 
